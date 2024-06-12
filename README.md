@@ -1,6 +1,5 @@
 # DocSim README
 
-Overview
 This project simulates a doctor's office visit, modeling patient flow, resource management, and thread synchronization using semaphores. Patients arrive to the office, register with a receptionist, wait in a waiting room, and are escorted by a nurse to a doctor's office for consultation. Doctors see patients, provide advice, and then the patients leave.
 
 
